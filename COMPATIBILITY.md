@@ -63,7 +63,7 @@ Entries list the class name serving as the entry point to the relevant functiona
 - [X] `PerfSigRecorder` and 5 more (`performance-signature-dynatrace`): supported as of 2.0
 - [ ] `StashNotifier` (`stashNotifier`): [issue 92](https://github.com/jenkinsci/stashnotifier-plugin/issues/92)
 - [X] `LambdaUploadBuildStep`, `LambdaInvokeBuildStep`, `LambdaEventSourceBuildStep` (`aws-lambda`): supported as of 0.5.0
-
+- [ ] `TAPPlugin` (`tap`): [JENKINS-34000](https://issues.jenkins-ci.org/browse/JENKINS-34000)
 ## Build wrappers
 
 - [X] `ConfigFileBuildWrapper` (`config-file-provider`): supported as of 2.9.1
